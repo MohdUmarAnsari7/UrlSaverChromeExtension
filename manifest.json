@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "URL Saver",
+  "version": "1.0",
+  "description": "Save your favorite URLs.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
